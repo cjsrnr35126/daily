@@ -16,15 +16,13 @@
 ![캡처](https://user-images.githubusercontent.com/49007889/57361224-e9ae1f80-71b6-11e9-8ec8-4086b8d1575b.PNG)
 
 
-알려지지않은
-
-
+알려려지 않은 불법 홍보가 얼마나 더 있을지 알 수 없다. 어떻게 해야 참된 정보를 얻을것 인가?
 
 ---------------------
 
 ## 2.what
 
-<p>특정 강사의 이름이 어떤 단어와 주로 결합되는지 관찰 (긍정 or 부정) 
+<p>커뮤니티의 글과 댓글에서 특정 강사의 이름이 어떤 단어와 주로 결합되는지 관찰 한다.(긍정 or 부정) 
 나아가 이것이 진실된 반응인지 아니면 마케팅인지 구분한다.</p>
 
 ## 3.how(R-code)
@@ -119,7 +117,16 @@ write.table(fst,"d:/comment.txt",sep = ",",row.names = F,append = T)
 write.table(contents,"d:/title&text.txt",sep = ",",row.names = F,append = T)
 }
 </code></pre>
+
 -------------------------
+
+#### 시행착오
+
+
+
+
+---------------------------
+
 <pre><code>
 ###taskscheduleR
 library(taskscheduleR)
