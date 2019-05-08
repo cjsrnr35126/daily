@@ -2,11 +2,10 @@
 데이터 크롤링 프로젝트
 
 ###index
-<li>1.why</li>
-<li>2.what</li>
-<li>3.how</li>
-2.what
-3.how
+<ui>1.why</ui>
+<ui>2.what</ui>
+<ui>3.how</ui>
+
 ---------------------
 
 
