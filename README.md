@@ -145,4 +145,7 @@ taskscheduler_create(taskname = "mt", rscript = myscript,
 
 ![제목 없음2](https://user-images.githubusercontent.com/49007889/57380977-05301f00-71e5-11e9-95d3-ceefcd1058fc.png)
 
+<p>위 사진에서 차이를 알 수 있다. 모든 제목을 읽은다음 공지 제목 수 만큼 데이터를 삭제하여 문제를 해결 하였다.
+  게시글 제목 다음에는 닉네임에 도전하였다. 글쓴이에 대한 정보는 목표를 찾아가는데 중요한 이정표 역할을 할 것이다. 
+</p>
 
