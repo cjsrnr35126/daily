@@ -120,10 +120,10 @@ write.table(contents,"d:/title&text.txt",sep = ",",row.names = F,append = T)
 
 -------------------------
 
-#### 시행착오
-
-
-
+<p>
+  코드 실행시 D드라이브에 commnet.txt 파일과 title&text.txt 파일이 생성된다.
+이를 자동화 시키기위해서 taskschedulR를 활용한다.
+</p>
 
 ---------------------------
 
@@ -137,3 +137,7 @@ taskscheduler_create(taskname = "mt", rscript = myscript,
 </code></pre>
 
 -----------------------------
+
+<p>
+  커뮤니티 글이 갱신되는 속도를 관찰한 결과 약 1시간에 1페이지 정도가 갱신되었다. 그러나 오차를 고려해야 하므로 5시간마다 5페이지를 크롤링하였다.
+</p>
