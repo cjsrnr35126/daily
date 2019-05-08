@@ -1,11 +1,11 @@
 # daily
 
-<h2></h2>
+
 
 ## 목표
 
 <p>특정 강사의 이름이 어떤 단어와 주로 결합되는지 관찰 (긍정 or 부정)한다. 나아가 이것이 진실된 반응인지 아니면 마케팅인지 구분한다.</p>
-<a href="http://news.chosun.com/site/data/html_dir/2018/11/09/2018110902122.html">여기</a>
+
 ## R-code
 
 <pre><code>
@@ -97,16 +97,10 @@ fst=commentf(1)
 write.table(fst,"d:/comment.txt",sep = ",",row.names = F,append = T)
 write.table(contents,"d:/title&text.txt",sep = ",",row.names = F,append = T)
 }
-
 </code></pre>
-
--------------------------------------
-
-
---------------------------
-
+-------------------------
 <pre><code>
-### taskscheduleR
+###taskscheduleR
 library(taskscheduleR)
 myscript <- system.file("extdata", "orbi.R", package = "taskscheduleR")
 taskscheduler_create(taskname = "mt", rscript = myscript,
