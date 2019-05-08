@@ -3,9 +3,9 @@
 
 ### index
 
-1.why
-2.what
-3.how
+1. why
+2. what
+3. how
 
 
 
