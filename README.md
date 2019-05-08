@@ -11,7 +11,13 @@
 
 ## 1.why
 
+![123](https://user-images.githubusercontent.com/49007889/57361504-7ce75500-71b7-11e9-9008-95d0b1559cb6.PNG)
+
 ![캡처](https://user-images.githubusercontent.com/49007889/57361224-e9ae1f80-71b6-11e9-8ec8-4086b8d1575b.PNG)
+
+
+알려지지않은
+
 
 
 ---------------------
