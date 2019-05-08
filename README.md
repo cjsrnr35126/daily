@@ -11,6 +11,8 @@
 
 ## 1.why
 
+![캡처](https://user-images.githubusercontent.com/49007889/57361224-e9ae1f80-71b6-11e9-8ec8-4086b8d1575b.PNG)
+
 
 ---------------------
 
