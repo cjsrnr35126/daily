@@ -139,6 +139,5 @@ taskscheduler_create(taskname = "mt", rscript = myscript,
 #### 시행착오
 <p>
   주제를 정하고 난 후 가장 먼저 제목크롤링을 시도하였다. 비교적 쉽게 성공하였으나 '공지'가 문제였다. '공지'는 페이지마다 동일하게 존재하므로 중복을 막고 온전히 게시글의 제목만을 얻기위해 '공지'를 제거해야 했다.
-  
-  
-  </p>
+</p>
+![제목 없음1](https://user-images.githubusercontent.com/49007889/57380639-5390ee00-71e4-11e9-8d67-e5f757bd4539.png)
