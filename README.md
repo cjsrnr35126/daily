@@ -1,8 +1,8 @@
 # daily
 데이터 크롤링 프로젝트
 
-###index
-<li>why</li>
+### index
+<li><h3>why</h3></li>
 <li>what</li>
 <li>how</li>
 
